@@ -1,2 +1,3 @@
-# markdown-badge-builder
-Interactive CLI &amp; Web helper to generate customized markdown status badges.
+# Markdown Badge Builder
+
+Easily create custom Shields.io badges for your GitHub READMEs.
